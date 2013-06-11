@@ -1,0 +1,20 @@
+.sidebar
+  .header-and-navigation
+    %h1.big-word.header
+      %a{:href => "/"}
+        {{ site.title }}
+    .menu
+      {% include navigation.html %}
+  .posts.extra-box
+    %h3.extra-box
+      Recent posts:
+    {% for post in site.posts %}
+    .post
+      .small.date
+        {{ post.date | date: "%Y-%m-%d" }}
+      .category
+        [ {{ post.categories }} ]
+      .title
+        %a{:href => "{{ post.url }}"}
+          {{ post.title }}
+    {% endfor %}

@@ -1,0 +1,10 @@
+---
+layout: main
+is_section: true
+is_front: true
+rss_filename: /index.xml
+---
+{% assign is_front = page.is_front %}
+{% assign page = site.posts.first %}
+{% assign content = page.content %}
+{% include post.html %}

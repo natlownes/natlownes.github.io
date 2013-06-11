@@ -1,0 +1,39 @@
+:plain
+  ---
+  layout: nil
+  ---
+%feed{:xmlns => "http://www.w3.org/2005/Atom"}
+  %title
+    {{site.title}}: #{category_name}
+  %link{:href => "{{site.url}}/rss/#{category_name}.xml", :rel => "self"}/
+  %link{:href => "{{site.url}}/#{category_name}/"}/
+  %updated {{ site.time | date_to_xmlschema }}
+  %id
+    {{site.url}}/#{category_name}/
+  %author
+    %name
+      {{site.author}}
+    %email
+      {{site.email}}
+  {% for post in site.categories.#{category_name} %}
+  %entry
+    %title {{ post.title }}
+    %link{:href => "{{site.url}}{{ post.url }}"}/
+    %updated {{ post.date | date_to_xmlschema }}
+    %id {{site.url}}{{ post.id }}
+    %content{:type => "html"} {{ post.content | xml_escape }}
+    %author
+      %name
+        {% if post.author %}
+        {{ post.author }}
+        {% else %}
+        {{ site.author }}
+        {% endif %}
+
+      %email
+        {% if post.email %}
+        {{ post.email }}
+        {% else %}
+        {{ site.email }}
+        {% endif %}
+  {% endfor %}

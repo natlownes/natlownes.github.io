@@ -1,0 +1,10 @@
+%nav
+  %ul
+    :plain
+      {% for section in site.navigation %}
+    %li.category
+      %a{:href => "{{section.path}}"}
+        :plain
+          {{ section.name }}
+          {% endfor %}
+

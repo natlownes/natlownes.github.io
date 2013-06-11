@@ -1,0 +1,31 @@
+<div class="section-content">
+  <article class='post'>
+    <header>
+      <h1 class='title'><a href="{{page.url}}">{{ page.title }}</a></h1>
+      <div class="byline">
+        <span class='author'>
+          <span class='by'>
+            by
+          </span>
+          <span class='name'>
+            {{ page.author  }}
+          </span>
+        </span>
+        <span class="double-pipe">|</span>
+        <span class='date'>
+          {{ page.date | date: "%Y-%m-%d" }}
+        </span>
+      </div> <!-- byline -->
+    </header>
+    <div class='content'>
+      {{ content }}
+    </div>
+    <footer>
+    </footer>
+  </article>
+
+  {% include post_pagination.html %}
+
+</div>
+{% include post_spacer.html %}
+

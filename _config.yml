@@ -1,0 +1,25 @@
+safe:         false
+auto:         true
+server:       true
+server_port:  4004
+baseurl:      /
+url:          http://looting.biz
+title:        blog.narf.io
+author:       blog.narf.io
+email:        nat.lownes+narf@gmail.com
+
+
+navigation:
+  - name: 'about'
+    path: '/about/'
+  - name: 'github'
+    path: 'http://github.com/natlownes/'
+
+exclude:      Rakefile, Gemfile, Gemfile.lock
+
+plugins:      ./_plugins
+
+future:       false
+lsi:          false
+pygments:     false
+permalink:    pretty

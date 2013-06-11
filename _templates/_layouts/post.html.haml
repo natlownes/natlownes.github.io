@@ -1,0 +1,17 @@
+:plain
+  ---
+  layout: main
+  ---
+%article.post
+  %header
+    %h1.title {{ page.title }}
+  .content
+    {{ content }}
+  %footer
+    .date {{ page.date | date: "%Y-%m-%d" }}
+    .author
+      %span.by
+        by:
+      %span.name
+        {{ page.author  }}
+

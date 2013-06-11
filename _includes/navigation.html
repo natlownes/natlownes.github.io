@@ -1,0 +1,12 @@
+<nav>
+  <ul>
+    {% for section in site.navigation %}
+    <li class='category'>
+      <a href='{{section.path}}'>
+        {{ section.name }}
+        {% endfor %}
+      </a>
+    </li>
+  </ul>
+</nav>
+
