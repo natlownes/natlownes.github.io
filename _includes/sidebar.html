@@ -17,9 +17,7 @@
     </div>
   </div>
   <div class='posts section extra-box'>
-    <!--<h3 class='extra-box'>-->
-      <!--Others:-->
-    <!--</h3>-->
+    <h3>Recent posts:</h3>
     {% for post in site.posts %}
     <div class='post'>
       <div class='small date'>
@@ -38,7 +36,4 @@
     {% include rss_feed_link.html %}
   </div>
 
-  <div class='section twitter'>
-    {% include twitter_widget.html %}
-  </div>
 </div>
