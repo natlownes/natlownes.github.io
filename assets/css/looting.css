@@ -58,7 +58,7 @@ article.post footer .date{float:right;}
 article.post footer .author{float:left;}
 .sidebar{margin-right:1em;}@media (max-width:800px){.sidebar{margin-left:1em;}}.sidebar .section{border-top:1px solid #e9e9e9;padding-top:1em;padding-bottom:1em;font-size:14px;font-weight:400;}
 .sidebar .header-and-navigation{}.sidebar .header-and-navigation header{font-family:"Courier New",Courier,monospace;font-weight:700;padding-bottom:3%;}.sidebar .header-and-navigation header h1{color:#ffffff;margin-bottom:0;}
-.sidebar .header-and-navigation header .subtitle{margin-top:2.25%;font-size:13.200000000000001px;}
+.sidebar .header-and-navigation header .subtitle{margin-top:1.5%;font-size:13.200000000000001px;}
 @media (max-width:800px){.sidebar .header-and-navigation{margin:6%;float:both;zoom:1;}.sidebar .header-and-navigation:before,.sidebar .header-and-navigation:after{content:"";display:table;} .sidebar .header-and-navigation:after{clear:both;} .sidebar .header-and-navigation .menu ul{padding:0;margin:0;margin-left:6%;} .sidebar .header-and-navigation .menu li{list-style:none;font-family:"Courier New",Courier,monospace;font-weight:700;font-size:1.5em;color:#aaaaaa;text-align:left;}.sidebar .header-and-navigation .menu li a{text-decoration:none;} .sidebar .header-and-navigation .menu li a:hover{color:#ffffff;text-decoration:none;}}
 .sidebar .posts{margin-top:3em;}@media (max-width:800px){.sidebar .posts{display:none;}}.sidebar .posts div.post{padding-top:0.2em;padding-bottom:0.2em;color:#e9e9e9;}
 .sidebar .posts div.date{padding-right:0.5em;float:left;color:#e9e9e9;}
