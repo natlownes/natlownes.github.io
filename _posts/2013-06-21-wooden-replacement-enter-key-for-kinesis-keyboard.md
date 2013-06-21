@@ -5,6 +5,7 @@ categories:
 title: Wooden Replacement Enter key for Kinesis Keyboard
 date: 2013-06-21 16:36:55
 author: Nat
+published: true
 ---
 I broke the "enter" key on my Kinesis keyboard yesterday.  I didn't have any
 super glue to fix the original key, but did have some scrap wood, basic woodworking tools, a Dremel, sandpaper, some polyurethane, and some time.  I think this outcome was much more satisfying anyway.
