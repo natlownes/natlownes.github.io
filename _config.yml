@@ -3,7 +3,7 @@ auto:         true
 server:       true
 server_port:  4004
 baseurl:      /
-url:          http://blog.narf.io/
+url:          http://blog.narf.io
 title:        blog.narf.io
 author:       Nat
 email:        nat.lownes+narf@gmail.com
