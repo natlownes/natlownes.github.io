@@ -3,9 +3,9 @@ auto:         true
 server:       true
 server_port:  4004
 baseurl:      /
-url:          http://looting.biz
+url:          http://blog.narf.io/
 title:        blog.narf.io
-author:       blog.narf.io
+author:       Nat
 email:        nat.lownes+narf@gmail.com
 
 
