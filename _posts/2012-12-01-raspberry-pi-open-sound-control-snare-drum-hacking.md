@@ -7,9 +7,7 @@ date: 2012-12-01
 author: Nat
 ---
 <div class="embed video">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/c8PLxlACzyQ" frameborder="0">
-
-  </iframe>
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/c8PLxlACzyQ" frameborder="0"></iframe>
 </div>
 
 Result of a Saturday morning of hacking around like a jackass.
