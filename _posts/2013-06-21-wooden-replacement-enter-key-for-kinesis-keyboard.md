@@ -72,7 +72,7 @@ Took about a day for it to dry.  Here's the finished product:
 [Key finished whole board]: http://narf.openphoto.me.s3.amazonaws.com/custom/201306/IMG_20130621_161526-2cb804_870x870.jpg
 
 After a day of using it, I'm pretty happy with it; the setup of the enter and
-space keys on the Kinesis always *slightly* irritated my thumb since I'd grace the
+space keys on the Kinesis always *slightly* irritated my thumb since I'd graze the
 edge of the concave enter key on the way to the space key.  I'm excited to have
 a convex key in that spot.
 
