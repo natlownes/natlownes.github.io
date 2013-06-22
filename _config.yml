@@ -14,8 +14,6 @@ navigation:
     path: '/about/'
   - name: 'github'
     path: 'http://github.com/natlownes/'
-  - name: 'twitter'
-    path: 'http://twitter.com/nathanield/'
 
 exclude:
   - Rakefile
