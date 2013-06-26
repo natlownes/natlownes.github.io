@@ -11,10 +11,24 @@ I broke the "enter" key on my Kinesis keyboard yesterday.  I didn't have any
 super glue to fix the original key, but did have some scrap wood, basic woodworking tools, a Dremel, sandpaper, some polyurethane, and some time.  I think this outcome was much more satisfying anyway.
 
 I used a manual miter saw to cut the basic shape then used the Dremel and
-sandpaper to shape it further.
+hand sandings to shape it further.
+
+I cut the cross-shaped mounting carvings shown here using a Dremel carving bit that was about the
+width of the plastic cross pieces that had to slip into the wood, maybe a little bit
+smaller.  I eyed it up (out of impatience, not skill mind you) with the key I was
+replacing sitting on the workbench for reference.
+
+The wood around the mounting cross (the bit that has to slip down into
+the key mechanism) was then shaped using a sanding bit at 10k rpm, not pressing down
+with much force.
 
 Underside of unshapen key, showing mounting carvings:
+
 ![Underside of unshapen key, showing mounting carvings][Unshapen key underside]
+
+{% include spacer.html %}
+
+
 
 {% include spacer.html %}
 
