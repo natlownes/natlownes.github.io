@@ -22,8 +22,8 @@ plugins for that framework that are in use in production environments.  Also
 kept large, inherited, mysterious systems running and deployed and maintained
 applications on bare metal machines and several PaaS providers.
 
-My consulting rate is $100/hr.  [Feel free to contact me for
-availability](mailto:nat.lownes@gmail.com?subject=availability) or just to ask questions.
+I am available for hire on a contract basis, [don't hesitate to contact me for
+a quote for your project](mailto:nat.lownes@gmail.com?subject=availability) or just to ask questions.
 
 
 
