@@ -52,6 +52,7 @@ article.post header h1 a:hover{color:#ffffff;text-decoration:none;}
 article.post header div.byline{float:right;clear:both;margin-top:0.6%;margin-left:3%;font-size:10.909090909090908px;color:#d0d0d0;}article.post header div.byline span.double-pipe{padding-left:0.5em;padding-right:0.5em;font-weight:900;color:#a9a9a9;}
 article.post img{float:left;padding-left:1.5%;padding-bottom:1.5%;padding-right:1.5%;max-width:90%;}@media (max-width:1200px){article.post img{float:none;margin-left:auto;margin-right:auto;display:block;clear:both;}}
 article.post .content{line-height:1.6em;color:#e9e9e9;}article.post .content p{margin-left:3%;margin-right:3%;}
+article.post code{background-color:#303030;color:white;border:2px dotted #80C900;margin-top:2em;margin-bottom:2em;padding:1em;display:block;}
 article.post footer{zoom:1;font-size:8px;padding-top:1.5%;}article.post footer:before,article.post footer:after{content:"";display:table;}
 article.post footer:after{clear:both;}
 article.post footer .date{float:right;}
