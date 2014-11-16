@@ -1,0 +1,39 @@
+---
+layout: post
+categories:
+  - coding
+title: "timg.narf.io:  images of arbitrary text with (potentially, but not
+guaranteed) humorous urls"
+date: 2014-11-16 02:13:34
+author: Nat
+email: nat.lownes@gmail.com
+---
+#### Introduction
+
+Sending images as a response to something, i.e. "reaction gifs" is a funny thing
+that happens on the Internet about things sometimes.  Often what's even funnier
+than the image itself is the URL of the image.
+
+This web app will take arbitrary text, make a very plain image of that exact
+text, and attempt to return that image, stored at a (perhaps) relevant and
+(perhaps) humorous URL.
+
+The impetus for this entire nonsense was the fantastic URL of:
+**http://www.funnycatsite.com/pictures/Very_Interesting250.jpg**
+
+There's no part of that URL (or potential interactions with that URL) that isn't
+funny to me.
+
+#### Interface
+
+The only interface to this stupid joke is your browser's address bar.  There are
+two options:
+
+* Just show me the image:  using the "i" [query
+  param](http://en.wikipedia.org/wiki/Query_string):
+[http://timg.narf.io/i?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg](http://timg.narf.io/i?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg)
+* Try to make a humorous URL:  using the "g" query param:
+[http://timg.narf.io/g?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg](http://timg.narf.io/g?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg)
+
+Using the "g" param will redirect you to a (hopefully) humorous URL with an
+image of your text.  It may be different with each request.
