@@ -50,3 +50,7 @@ a reaction gif:
 
 * [http://timg.narf.io/g?t=rasta man huge doob](http://timg.narf.io/g?t=rasta%20man%20huge%20doob)
 
+For instance, that yielded:
+[http://a.timg.narf.io/d5f35f/2012/13242/gifts-under-a-gram-stocking-stuffers-for-stoners.gif](http://a.timg.narf.io/d5f35f/2012/13242/gifts-under-a-gram-stocking-stuffers-for-stoners.gif).
+
+You might get something even better.  It'll generate a new one each time.
