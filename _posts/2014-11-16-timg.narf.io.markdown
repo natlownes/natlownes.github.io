@@ -29,10 +29,10 @@ funny to me.
 The only interface to this stupid joke is your browser's address bar.  There are
 two options:
 
-* Just show me the image:  using the "i" [query
+* **Just show me the image**:  using the "i" [query
   param](http://en.wikipedia.org/wiki/Query_string):
 [http://timg.narf.io/i?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg](http://timg.narf.io/i?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg)
-* Try to make a humorous URL:  using the "g" query param:
+* **Try to make a humorous URL**:  using the "g" query param:
 [http://timg.narf.io/g?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg](http://timg.narf.io/g?t=http://funnycatsite.com/pictures/Very_Interesting250.jpg)
 
 Using the "g" param will redirect you to a (hopefully) humorous URL with an
