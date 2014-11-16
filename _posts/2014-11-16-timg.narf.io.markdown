@@ -24,16 +24,6 @@ The impetus for this entire nonsense was the fantastic URL of:
 There's no part of that URL (or potential interactions with that URL) that isn't
 funny to me.
 
-#### Use Case
-
-Definitely none.
-
-Or, waitaminute.  You might want to use this if you want to make a joke about a
-URL.  Or if you want an image of the text you might search in your quest to find
-a reaction gif:
-
-* [http://timg.narf.io/g?t=rasta man huge doob](http://timg.narf.io/g?t=rasta%20man%20huge%20doob)
-
 #### Interface
 
 The only interface to this stupid joke is your browser's address bar.  There are
@@ -47,3 +37,16 @@ two options:
 
 Using the "g" param will redirect you to a (hopefully) humorous URL with an
 image of your text.  It may be different with each request.
+
+So, just replace any text after the "=" with whatever text you want to see.
+
+#### Use Case
+
+Definitely none.
+
+Or, waitaminute.  You might want to use this if you want to make a joke about a
+URL.  Or if you want an image of the text you might search in your quest to find
+a reaction gif:
+
+* [http://timg.narf.io/g?t=rasta man huge doob](http://timg.narf.io/g?t=rasta%20man%20huge%20doob)
+
